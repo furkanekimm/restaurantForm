@@ -1,0 +1,16 @@
+c:\users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe.config
+c:\users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe
+c:\users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.pdb
+c:\users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.csprojResolveAssemblyReference.cache
+c:\users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.frmGiris.resources
+c:\users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Properties.Resources.resources
+c:\users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.csproj.GenerateResource.Cache
+c:\users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.exe
+c:\users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.pdb
+C:\Users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.frmMenu.resources
+C:\Users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.frmSiparis.resources
+C:\Users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.frmMasalar.resources
+C:\Users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.frmBill.resources
+C:\Users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.frmMusteriAra.resources
+C:\Users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.MusteriEkleme.resources
+C:\Users\furkanekim\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.frmSiparisKontrol.resources
